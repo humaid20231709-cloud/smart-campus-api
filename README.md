@@ -1,3 +1,7 @@
+# Name - Humaid Rifai
+# ID - 20231709
+
+
 # Smart Campus API
 
 A RESTful API for managing university rooms and sensors, built with JAX-RS (Jersey) and Grizzly HTTP server.
